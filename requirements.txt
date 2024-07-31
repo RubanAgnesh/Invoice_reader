@@ -1,0 +1,8 @@
+fastapi
+langchain-qdrant
+langchain-huggingface
+langchain
+langchain-community
+qdrant_client
+langchain_google_genai
+python-dotenv
