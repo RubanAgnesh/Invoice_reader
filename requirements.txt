@@ -3,8 +3,9 @@ langchain-qdrant
 langchain-huggingface
 langchain
 langchain-community
-qdrant_client
+qdrant-client
 langchain_google_genai
 python-dotenv
 sentence-transformer
 torch
+langchain-qdrant
