@@ -6,3 +6,5 @@ langchain-community
 qdrant_client
 langchain_google_genai
 python-dotenv
+sentence-transformer
+torch
